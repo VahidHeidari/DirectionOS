@@ -1,6 +1,6 @@
 /******************************************************
  *                                                    *
- *  FileName            : USER TASKS.h		          *
+ *  FileName            : UserTasks.h		          *
  *  Date                : June 2013                   *
  *  Description         : User defined tasks	 	  *
  *                                                    *
